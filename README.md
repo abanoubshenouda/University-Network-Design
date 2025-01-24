@@ -104,8 +104,7 @@ ________________________________________________________________________________
 ## 
 
 ## Topology:
-![Network Topology![image](https://github.com/user-attachments/assets/0bc27dc6-d530-43e5-84e5-515564c339e1)
-](link-to-topology-image)
+![Network Topology![image]](https://github.com/user-attachments/assets/0bc27dc6-d530-43e5-84e5-515564c339e1)
 
 ## Usage:
 1. Download the `.pkt` file.
